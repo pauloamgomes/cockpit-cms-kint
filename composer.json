@@ -1,0 +1,20 @@
+{
+    "name": "pauloamgomes/cockpit-cms-kint",
+    "type": "project",
+    "description": "Kint addon for Cockpit Headless CMS",
+    "keywords": ["cms", "headless", "api", "cockpit", "debug", "kint"],
+    "homepage": "https://github.com/pauloamgomes/cockpit-cms-kint",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paulo Gomes",
+            "email": "pauloamgomes@gmail.com",
+            "homepage": "https://www.pauloamgomes.net"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "kint-php/kint": "^3.0@dev",
+        "kint-php/kint-js": "^2.0"
+    }
+}
